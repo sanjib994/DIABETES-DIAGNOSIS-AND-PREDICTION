@@ -9,7 +9,7 @@ This project uses machine learning to predict diabetes based on health parameter
 1. Clone this repository
 2. Install requirements: `pip install -r requirements.txt`
 3. Run Jupyter notebooks in the `notebooks/` directory to explore the data and train models
-4. Run the web app: `python app/app.py`
+   
 
 ## Dataset
 The dataset contains 768 records with 8 health features and 1 outcome variable:
