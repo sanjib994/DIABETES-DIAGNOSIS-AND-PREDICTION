@@ -1,6 +1,6 @@
 # Diabetes Diagnosis and Prediction using AI
 ## Project Description
-This project uses machine learning to predict diabetes based on health parameters from the Pima Indians Diabetes Dataset. It includes data exploration, preprocessing, model training, evaluation, and a web interface for predictions.
+This project uses machine learning to predict diabetes based on health parameters from the Pima Indians Diabetes Dataset. It includes data exploration, preprocessing, model training, evaluation  for predictions.
 ## Features
 - Multiple ML models for diabetes prediction (Random Forest, SVM, Logistic Regression, XGBoost)
 - Comprehensive data analysis and visualization
