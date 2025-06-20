@@ -5,8 +5,7 @@ This project uses machine learning to predict diabetes based on health parameter
 - Multiple ML models for diabetes prediction (Random Forest, SVM, Logistic Regression, XGBoost)
 - Comprehensive data analysis and visualization
 - Model evaluation and comparison
-- Web interface for predictions
-  ## Installation
+ ## Installation
 1. Clone this repository
 2. Install requirements: `pip install -r requirements.txt`
 3. Run Jupyter notebooks in the `notebooks/` directory to explore the data and train models
