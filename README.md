@@ -28,9 +28,9 @@ The dataset contains 768 records with 8 health features and 1 outcome variable:
 Model performance comparison:
 | Model               | Accuracy | Precision | Recall | F1 Score | ROC AUC |
 |---------------------|----------|-----------|--------|----------|---------|
-| Random Forest       | 0.79     | 0.75      | 0.68   | 0.71     | 0.85    |
-| Logistic Regression | 0.77     | 0.71      | 0.64   | 0.67     | 0.82    |
-| SVM                 | 0.76     | 0.70      | 0.63   | 0.66     | 0.81    |
-| XGBoost             | 0.78     | 0.73      | 0.66   | 0.69     | 0.84    |
+| Random Forest       | 0.74     | 0.63      | 0.65   | 0.64     | 0.83    |
+| Logistic Regression | 0.75     | 0.66      | 0.61   | 0.64     | 0.82    |
+| SVM                 | 0.74     | 0.66      | 0.58   | 0.62     | 0.80    |
+| XGBoost             | 0.71     | 0.58      | 0.67   | 0.62     | 0.78    |
 
 
